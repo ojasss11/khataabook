@@ -1,0 +1,14 @@
+Khaatabook Note-Taking App. It discusses the requirements and objectives of the app, including features like peer authentication, note creation, editing, deletion, categorization, reminders, and collaboration.
+
+
+Khaatabook
+  Har roz ki ek file create kar sakte ho,us file ka naam date se hoga
+  e.g.] 12-08-2024.txt
+Aap main screen par/route par aap dekh paayenge saari files aur saare din ka hisab 
+Click karne par uss din ka hisab khul jayega
+Chahe to edit karein and firse save karein
+Hisaab ko delete kiya ja sakta hai
+Password naamki functionality bhi add kare  
+
+FILES STRUCTURE of the project
+ one folder called as files-->12/08/2024.txt
